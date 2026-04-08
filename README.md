@@ -7,8 +7,8 @@
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/lmader31/RL_project_sailing_v2.git
-cd RL_project_sailing_v2
+git clone https://github.com/lmader31/stable_v2_RL_sailing_challenge.git
+cd stable_v2_RL_sailing_challenge
 ```
 
 ## Challenge Overview
@@ -153,4 +153,4 @@ See the Codabench challenge page for dates and deadlines.
 
 ## Communication
 
-Email: t.rahier at criteo.com | Codabench forum
+Email: t.rahier at criteo.com | l.mader at criteo.com | Codabench forum
