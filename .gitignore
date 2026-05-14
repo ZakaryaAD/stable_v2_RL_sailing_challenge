@@ -49,3 +49,16 @@ ENV/
 
 # Exclude files in agent directory ending with a number
 agent/*[0-9].py private_notebooks/
+
+# Virtual environments
+sailing-env/
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Submission zips
+*.zip
